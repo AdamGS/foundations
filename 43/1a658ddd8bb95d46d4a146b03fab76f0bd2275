@@ -1,0 +1,31 @@
+foundations-macros/src/metrics/mod.rs
+  s_5a2cab6acde249::t_f16f94cb932aa4 82,96-97,124-126,293-296,314-317,900-987
+foundations-macros/src/metrics/parsing.rs
+  s_17515285dc9c95::t_4a4cea025161ef 224-225,275-279,300-316
+foundations/src/telemetry/metrics/mod.rs
+  s_17515285dc9c95::t_5b2f283c2d1720 298-301,461
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "431a658ddd8bb95d46d4a146b03fab76f0bd2275",
+  "prompts": {},
+  "sessions": {
+    "s_17515285dc9c95": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "948ad694-21f4-4134-9fd4-446897ac7f31",
+        "model": "unknown"
+      },
+      "human_author": "Adam Gutglick <agutglick@cloudflare.com>"
+    },
+    "s_5a2cab6acde249": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e8237df24ffeYCljozQdCq4j1I",
+        "model": "@cf/zai-org/glm-5.3-flash"
+      },
+      "human_author": "Adam Gutglick <agutglick@cloudflare.com>"
+    }
+  }
+}
